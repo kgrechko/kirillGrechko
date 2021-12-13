@@ -1,5 +1,5 @@
-package com.hillel.hw8;
 
+package com.hillel.hw8;
 import java.util.Scanner;
 import java.lang.Math;
 
