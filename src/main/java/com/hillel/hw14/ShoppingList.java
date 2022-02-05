@@ -1,7 +1,5 @@
-package com.hillel.hw14;
+package main.java.com.hillel.hw14;
 
-import javax.sound.midi.Soundbank;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
