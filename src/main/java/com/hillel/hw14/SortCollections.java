@@ -1,8 +1,5 @@
-package com.hillel.hw14;
+package main.java.com.hillel.hw14;
 
-import com.sun.tools.javac.Main;
-
-import java.nio.file.FileVisitOption;
 import java.util.ArrayList;
 import java.util.Random;
 
